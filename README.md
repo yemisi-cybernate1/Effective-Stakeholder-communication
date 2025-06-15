@@ -1,4 +1,4 @@
-# Effective Stakeholders Communication
+# Communication with Stakeholders
 ## Objective
 The objective of stakeholder communication in cybersecurity is to ensure that all relevant parties are informed, aligned, and engaged in protecting organizational assets and responding effectively to security risks. 
 
